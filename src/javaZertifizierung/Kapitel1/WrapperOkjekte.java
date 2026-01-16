@@ -1,6 +1,6 @@
-package javaZertifizierung;
+package javaZertifizierung.Kapitel1;
 
-public class Kapitel1 {
+public class WrapperOkjekte {
 
 	public static void main(String[] args) {
 		
