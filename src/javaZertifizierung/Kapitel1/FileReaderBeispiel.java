@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.Reader;
 import java.lang.foreign.VaList.Builder;
 
-public class IOStream {
+public class FileReaderBeispiel {
 
 	public static void main(String[] args) {
 		
@@ -46,7 +46,4 @@ public class IOStream {
 			try {br.close();}catch (Exception e) {}
 		}
 		
-		
-	}
 
-}
